@@ -74,5 +74,3 @@ files.download(filename)
 ## Licencia
 Este proyecto está bajo licencia MIT — consulta el archivo LICENSE para más detalles.
 
-## Autor
-Kevin - kevitoyt558@gmail.com
