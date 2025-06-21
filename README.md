@@ -33,9 +33,6 @@ Puedes instalar las librerías con:
 pip install requests beautifulsoup4 pandas
 
 ## Código principal
-python
-Copiar
-Editar
 import requests 
 from bs4 import BeautifulSoup
 import pandas as pd
